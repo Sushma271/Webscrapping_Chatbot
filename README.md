@@ -39,6 +39,6 @@ To set up this project on your local machine or in Google Colab, follow these st
 If you're setting this up locally, clone the repository using:
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/Sushma271/Webscrapping_Chatbot/tree/main
 
 pip install requests beautifulsoup4 sentence-transformers sklearn numpy
